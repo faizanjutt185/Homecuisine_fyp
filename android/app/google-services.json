@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176890850607",
+    "project_id": "homie-cuisine-e92a6",
+    "storage_bucket": "homie-cuisine-e92a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176890850607:android:2ab0aac1795942bd71c5da",
+        "android_client_info": {
+          "package_name": "com.example.homie_cuisine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176890850607-pt763phm5b1o5gencd28c3i9l0c8v7qc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_4x590S69VJVPwvakqeZdAm_mUHmVQI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176890850607-pt763phm5b1o5gencd28c3i9l0c8v7qc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
